@@ -1,6 +1,0 @@
-pyfiglet
-pytest
-pycryptodomepytest
-pycryptodome
-hashlib
-os
