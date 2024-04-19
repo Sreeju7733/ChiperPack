@@ -1,6 +1,7 @@
 # ChiperPack: Secure File Encryptor and Decryptor
 
 [![CS50P Sreeju](https://certificates.cs50.io/2c93ffd9-177a-4187-9bb7-cac0780fa781.png?size=A4)](https://certificates.cs50.io/2c93ffd9-177a-4187-9bb7-cac0780fa781)
+[![image](https://github.com/Sreeju7733/ChiperPack/assets/77568405/c689a19e-aed1-47df-9e31-f2b7cb24f0e1)](https://certificates.cs50.io/2c93ffd9-177a-4187-9bb7-cac0780fa781)
 
 #### Video Demo: [https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A](https://youtu.be/USu6akq9ZmQ?si=ygvK6CHDgeGHs_-A)
 
